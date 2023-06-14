@@ -1,4 +1,4 @@
 # Overview
-This document is just a memo for the basic high-level design of implement a B4 element with eBPF, however, The document contains idea regarding feasible basic low-level design for the project as well.
+This document is simply a memo outlining the high-level design for implementing a B4 element with eBPF. However, it also includes ideas concerning the feasible basic low-level design for the project.
 
 # Terms
